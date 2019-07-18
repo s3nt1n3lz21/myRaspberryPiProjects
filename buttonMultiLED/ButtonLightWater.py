@@ -3,7 +3,7 @@
 # Description		: Button To Control Display Of A 10 LED Bar Graph 
 # Author     		: Neil Smith
 # First Created		: 14/07/2019
-# Last Modification : 14/07/2019
+# Last Modification : 18/07/2019
 ########################################################################
 
 import RPi.GPIO as GPIO
